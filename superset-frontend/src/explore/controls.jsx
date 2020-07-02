@@ -473,6 +473,7 @@ export const controls = {
       'Japan',
       'Korea',
       'Liechtenstein',
+      'Malawi',
       'Morocco',
       'Myanmar',
       'Netherlands',
